@@ -2,7 +2,7 @@
 
 **Cloud Security Engineer | Threat Detection | DevSecOps**
 
-Securing cloud infrastructure, building detection rules, and automating security operations. I focus on designing and implementing security controls across AWS and Azure environments, from identity & access management to real-time threat detection.
+I work on cloud security at T-Mobile — hardening AWS/Azure infrastructure, writing detection rules, and automating security ops.
 
 M.S. in Cybersecurity | B.S. in Computer Science
 
@@ -61,16 +61,16 @@ M.S. in Cybersecurity | B.S. in Computer Science
 ### Featured Projects
 
 [![secret-scanner](https://img.shields.io/badge/secret--scanner-Credential%20Detection%20Tool-red?style=for-the-badge)](https://github.com/Prakashgode/secret-scanner)
-> Scans codebases for hardcoded secrets, API keys, and tokens. Built for DevSecOps pipelines with pre-commit hook support.
+> Scans repos for hardcoded secrets and API keys. Has pre-commit hook support.
 
 [![log-analyzer](https://img.shields.io/badge/log--analyzer-Log%20Analysis%20Engine-blue?style=for-the-badge)](https://github.com/Prakashgode/log-analyzer)
-> Parses, correlates, and detects anomalies across multiple log sources. Built for SOC analysts and blue team operations.
+> Parses syslog, auth logs, Apache, and Windows events. Detects brute force, priv escalation, etc.
 
 [![cloud-cspm](https://img.shields.io/badge/cloud--cspm-AWS%20Security%20Posture%20Management-orange?style=for-the-badge)](https://github.com/Prakashgode/cloud-cspm)
-> Scans AWS infrastructure for misconfigurations against CIS benchmarks. Covers IAM, S3, EC2, RDS, and CloudTrail with detailed remediation guidance.
+> Checks AWS for misconfigs — IAM, S3, EC2, RDS, CloudTrail. Maps to CIS benchmarks.
 
-[![agentic-soc](https://img.shields.io/badge/agentic--soc-AI--Powered%20SOC%20Platform-purple?style=for-the-badge)](https://github.com/Prakashgode/agentic-soc)
-> AI-powered Security Operations Center with autonomous alert triage, investigation, and incident response agents for AWS/Azure environments.
+[![agentic-soc](https://img.shields.io/badge/agentic--soc-SOC%20Pipeline-purple?style=for-the-badge)](https://github.com/Prakashgode/agentic-soc)
+> LLM-based SOC pipeline — takes in alerts from CloudTrail/GuardDuty/Sentinel, runs triage + investigation + response.
 
 ---
 
