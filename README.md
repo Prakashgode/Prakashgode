@@ -4,7 +4,7 @@
 
 Securing cloud infrastructure, building detection rules, and automating security operations. I focus on designing and implementing security controls across AWS and Azure environments, from identity & access management to real-time threat detection.
 
-M.S. in Cybersecurity
+M.S. in Cybersecurity | B.S. in Computer Science
 
 ---
 
