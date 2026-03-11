@@ -2,7 +2,7 @@
 
 **Cloud Security Engineer | Threat Detection | DevSecOps**
 
-Cloud Security Engineer with 5+ years of experience securing enterprise cloud infrastructure across AWS and Azure. Currently at T-Mobile designing security controls, building threat detection rules, and automating incident response across multi-region environments.
+Securing cloud infrastructure, building detection rules, and automating security operations. I focus on designing and implementing security controls across AWS and Azure environments, from identity & access management to real-time threat detection.
 
 M.S. in Cybersecurity | B.S. in Computer Science
 
@@ -10,13 +10,11 @@ M.S. in Cybersecurity | B.S. in Computer Science
 
 ### What I Do
 
-- Cloud security posture management & misconfiguration detection
-- SIEM/SOAR engineering (Microsoft Sentinel, Splunk)
-- Endpoint & cloud protection (Microsoft Defender for Cloud, Defender for Endpoint)
-- IAM policy analysis & least-privilege enforcement
-- DevSecOps pipeline security (CI/CD, IaC scanning, secret detection)
-- Compliance frameworks: CIS Benchmarks, NIST 800-53, STIG
-- MITRE ATT&CK-based detection, incident triage & security hardening
+- Cloud security architecture & hardening (AWS, Azure)
+- Threat detection & incident response (SIEM, SOAR)
+- Vulnerability management & penetration testing
+- DevSecOps pipeline security & automation
+- Security compliance & governance (CIS, NIST, ISO 27001)
 
 ---
 
