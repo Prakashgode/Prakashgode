@@ -20,12 +20,13 @@ M.S. in Cybersecurity
 
 ### Certifications
 
-| Certification | Focus Area |
-|---|---|
-| **CEH** - Certified Ethical Hacker | Offensive Security & Penetration Testing |
-| **CCNA** - Cisco Certified Network Associate | Network Security & Infrastructure |
-| **AWS Certified Security - Specialty** | AWS Cloud Security |
-| **Microsoft Certified: Azure Security Engineer Associate** | Azure Cloud Security |
+| Certification | Focus Area | Status |
+|---|---|---|
+| **Microsoft Certified: Azure Security Engineer Associate** | Azure Cloud Security | Active |
+| **AWS Certified Cloud Practitioner** | AWS Cloud Fundamentals | Active |
+| **CCNA** - Cisco Certified Network Associate (Routing & Switching) | Network Security & Infrastructure | Earned |
+| **CEH** - Certified Ethical Hacker | Offensive Security & Penetration Testing | Earned |
+| **AWS Certified Security - Specialty** | AWS Cloud Security | In Progress |
 
 ---
 
