@@ -65,6 +65,9 @@ M.S. in Cybersecurity
 [![log-analyzer](https://img.shields.io/badge/log--analyzer-Log%20Analysis%20Engine-blue?style=for-the-badge)](https://github.com/Prakashgode/log-analyzer)
 > Parses, correlates, and detects anomalies across multiple log sources. Built for SOC analysts and blue team operations.
 
+[![cloud-cspm](https://img.shields.io/badge/cloud--cspm-AWS%20Security%20Posture%20Management-orange?style=for-the-badge)](https://github.com/Prakashgode/cloud-cspm)
+> Scans AWS infrastructure for misconfigurations against CIS benchmarks. Covers IAM, S3, EC2, RDS, and CloudTrail with detailed remediation guidance.
+
 ---
 
 ### GitHub Stats
