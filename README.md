@@ -69,6 +69,9 @@ M.S. in Cybersecurity | B.S. in Computer Science
 [![cloud-cspm](https://img.shields.io/badge/cloud--cspm-AWS%20Security%20Posture%20Management-orange?style=for-the-badge)](https://github.com/Prakashgode/cloud-cspm)
 > Scans AWS infrastructure for misconfigurations against CIS benchmarks. Covers IAM, S3, EC2, RDS, and CloudTrail with detailed remediation guidance.
 
+[![agentic-soc](https://img.shields.io/badge/agentic--soc-AI--Powered%20SOC%20Platform-purple?style=for-the-badge)](https://github.com/Prakashgode/agentic-soc)
+> AI-powered Security Operations Center with autonomous alert triage, investigation, and incident response agents for AWS/Azure environments.
+
 ---
 
 ### GitHub Stats
