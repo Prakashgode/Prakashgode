@@ -2,7 +2,7 @@
 
 **Cloud Security Engineer | Threat Detection | DevSecOps**
 
-I work on cloud security at T-Mobile — hardening AWS/Azure infrastructure, writing detection rules, and automating security ops.
+I work on cloud security - hardening AWS/Azure infrastructure, writing detection rules, and automating security ops.
 
 M.S. in Cybersecurity | B.S. in Computer Science
 
