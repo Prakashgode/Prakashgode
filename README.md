@@ -67,10 +67,10 @@ M.S. in Cybersecurity | B.S. in Computer Science
 > Parses syslog, auth logs, Apache, and Windows events. Detects brute force, priv escalation, etc.
 
 [![cloud-cspm](https://img.shields.io/badge/cloud--cspm-AWS%20Security%20Posture%20Management-orange?style=for-the-badge)](https://github.com/Prakashgode/cloud-cspm)
-> Checks AWS for misconfigs — IAM, S3, EC2, RDS, CloudTrail. Maps to CIS benchmarks.
+> Checks AWS for misconfigs - IAM, S3, EC2, RDS, CloudTrail. Maps to CIS benchmarks.
 
 [![agentic-soc](https://img.shields.io/badge/agentic--soc-SOC%20Pipeline-purple?style=for-the-badge)](https://github.com/Prakashgode/agentic-soc)
-> LLM-based SOC pipeline — takes in alerts from CloudTrail/GuardDuty/Sentinel, runs triage + investigation + response.
+> LLM-based SOC pipeline - takes in alerts from CloudTrail/GuardDuty/Sentinel, runs triage + investigation + response.
 
 ---
 
