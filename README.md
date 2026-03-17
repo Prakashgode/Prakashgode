@@ -77,8 +77,6 @@ M.S. in Cybersecurity | B.S. in Computer Science
 
 ### GitHub Stats
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Prakashgode&theme=github-dark&hide_border=true&area=true)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Prakashgode&layout=compact&theme=github_dark&hide_border=true&cache_seconds=1800)
 
 ---
