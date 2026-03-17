@@ -77,7 +77,7 @@ M.S. in Cybersecurity | B.S. in Computer Science
 
 ### GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Prakashgode&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=Prakashgode&theme=github-dark-blue&hide_border=true)
 
 ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Prakashgode&layout=compact&theme=github_dark&hide_border=true)
 
